@@ -32,6 +32,6 @@ Overall, the sub 1nm process presents significant technical and economic challen
 ### References
 [^1]: About the Chips
 
-<iframe width="878" height="494" src="https://www.youtube.com/embed/g8Qav3vIv9s" title="How are microchips made?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include youtube.html id="g8Qav3vIv9s" %}
 
 [^2]:The Sillicon Wafer
